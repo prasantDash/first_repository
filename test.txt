@@ -1,1 +1,1 @@
-Test text modify by git master
+Test file text updated by client
